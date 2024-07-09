@@ -1,7 +1,14 @@
-import React from "react";
+// AuthNav.jsx
+
+import { Link } from "react-router-dom";
 
 const AuthNav = () => {
-  return <div>AuthNav</div>;
+  return (
+    <div>
+      <Link to="/register">Register</Link>
+      <Link to="/login">Log In</Link>
+    </div>
+  );
 };
 
 export default AuthNav;
