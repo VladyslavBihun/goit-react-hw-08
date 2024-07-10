@@ -1,5 +1,3 @@
-// AuthNav.jsx
-
 import { Link } from "react-router-dom";
 import css from "./AuthNav.module.css";
 

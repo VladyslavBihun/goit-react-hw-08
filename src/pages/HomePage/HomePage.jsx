@@ -1,5 +1,3 @@
-// HomePage.jsx
-
 const HomePage = () => {
   return (
     <div>
